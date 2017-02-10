@@ -1,2 +1,2 @@
-SpringBooJSP/.metadata/
-SpringBooJSP/.recommenders/
+SpringBootJSP/.metadata/
+SpringBootJSP/.recommenders/
